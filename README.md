@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am currently a first-year Masters student in the Masters in Data Science program at Columbia University. I am interested in the intersection of Machine Learning and Artificial Intelligence in the Healthcare industry. 
+
 <!--
 **akakadiaris/akakadiaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
