@@ -2,6 +2,8 @@
 
 I am currently a first-year Masters student in the Masters in Data Science program at Columbia University. I am interested in the intersection of Machine Learning and Artificial Intelligence in the Healthcare industry. 
 
+I was awarded the NSF CISE Graduate Fellowship (https://www.nsf.gov/cise/CSGrad4US/) and currently applying to start my PhD in Computer Science Fall 2024.
+
 <!--
 **akakadiaris/akakadiaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
