@@ -1,11 +1,10 @@
 ### Hi Y'all 👋
 
-I am currently a first-year Masters student in the Masters in Data Science program at Columbia University with a graduation date of May 2024. I am interested in the intersection of Machine Learning and Artificial Intelligence in the Healthcare industry.
+I graduated in May from the Master's in Data Science program at Columbia University. My academic focus is on the intersection of Machine Learning and Artificial Intelligence in the healthcare industry, where I aim to leverage data-driven technologies to solve critical healthcare challenges.
 
-Before starting my Masters, I graduated from The George Washington University in Washington, DC, with a BS in Business Analytics and a minor in Computer Science in May 2022. After graduating, I worked at IBM as an Associate Developer in the IBM Federal Consulting Group. 
+Before starting my Master’s, I graduated from The George Washington University in Washington, DC, in May 2022 with a BS in Business Analytics and a minor in Computer Science. After graduation, I worked as an Associate Developer in the IBM Federal Consulting Group, where I gained hands-on experience in developing data solutions for clients across various sectors, including government.
 
-I was awarded the NSF CISE Graduate Fellowship (https://www.nsf.gov/cise/CSGrad4US/) and currently applying to start my PhD in Computer Science Fall 2024.
-
+I was honored to receive the NSF CISE Graduate Fellowship (https://www.nsf.gov/cise/CSGrad4US/) to support my graduate studies and research. As part of my future plans, I am currently applying for a PhD in Computer Science starting in Fall 2025. 
 <!--
 **akakadiaris/akakadiaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
